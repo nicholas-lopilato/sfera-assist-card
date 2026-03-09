@@ -1,7 +1,7 @@
 # 🔮 Sfera Assist Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub release](https://img.shields.io/github/release/YOUR_USERNAME/sfera-assist-card.svg)](https://github.com/YOUR_USERNAME/sfera-assist-card/releases)
+[![GitHub release](https://img.shields.io/github/release/nicholas-lopilato/sfera-assist-card.svg)](https://github.com/nicholas-lopilato/sfera-assist-card/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Una **sfera neurale 3D animata** per Home Assistant che reagisce in tempo reale allo stato del tuo assistente vocale — o di qualsiasi entità sensor.
@@ -15,13 +15,13 @@ Una **sfera neurale 3D animata** per Home Assistant che reagisce in tempo reale 
 ## Installazione tramite HACS (consigliata)
 
 1. Apri HACS → **Frontend** → menu `⋮` → **Repository personalizzati**
-2. Aggiungi `https://github.com/YOUR_USERNAME/sfera-assist-card` come tipo **Lovelace**
+2. Aggiungi `https://github.com/nicholas-lopilato/sfera-assist-card` come tipo **Lovelace**
 3. Installa **Sfera Assist Card**
 4. Ricarica la pagina
 
 ## Installazione manuale
 
-1. Scarica `sfera-assist-card.js` dalla [pagina releases](https://github.com/YOUR_USERNAME/sfera-assist-card/releases)
+1. Scarica `sfera-assist-card.js` dalla [pagina releases](https://github.com/nicholas-lopilato/sfera-assist-card/releases)
 2. Copia il file in `/config/www/sfera-assist-card.js`
 3. In Home Assistant vai su **Impostazioni → Dashboard → Risorse** e aggiungi:
    - URL: `/local/sfera-assist-card.js`
