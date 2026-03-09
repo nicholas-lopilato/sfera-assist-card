@@ -436,7 +436,7 @@ window.customCards.push({
   name: 'Sfera Assist Card',
   description: 'Una sfera neurale animata che reagisce allo stato del tuo assistente vocale.',
   preview: true,
-  documentationURL: 'https://github.com/YOUR_USERNAME/sfera-assist-card',
+  documentationURL: 'https://github.com/nicholas-lopilato/sfera-assist-card',
 });
 
 console.info(`%c SFERA-ASSIST-CARD %c v${CARD_VERSION} `, 'background:#1a1a2e;color:#66ccff;font-weight:700;', 'background:#66ccff;color:#000;font-weight:700;');
