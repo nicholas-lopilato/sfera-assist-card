@@ -1,0 +1,7 @@
+{
+  "name": "Sfera Assist Card",
+  "description": "Una sfera neurale animata 3D che reagisce allo stato del tuo assistente vocale in Home Assistant.",
+  "render_readme": true,
+  "filename": "sfera-assist-card.js",
+  "content_in_root": false
+}
