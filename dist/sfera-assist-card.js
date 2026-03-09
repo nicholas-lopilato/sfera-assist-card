@@ -276,6 +276,7 @@ class SferaAssistCard extends HTMLElement {
     camera.position.z = 3;
 
     const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    renderer.setClearColor(0x000000, 0);
     renderer.setPixelRatio(window.devicePixelRatio);
     renderer.setSize(container.clientWidth || 300, height);
     renderer.domElement.style.display = 'block';
